@@ -1,0 +1,106 @@
+.section1 {
+    background-color: fuchsia;
+}
+
+.section2 {
+    background-color: peru;
+}
+
+.section3 {
+    background-color: yellow;
+}
+
+.section4 {
+    background-color: lime;
+}
+
+.section5 {
+    background-color: cyan;
+}
+
+.section6 {
+    background-color: darkblue;
+}
+
+.section7 a:link,
+a:visited {
+    background-color: #f44339;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover,
+a:active {
+    background-color: crimson;
+}
+
+h1 {
+    background-color: gold;
+    color: green;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    background-color: orangered;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h3 {
+    background-color: limegreen;
+    color: magenta;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h4 {
+    background-color: salmon;
+    color: maroon;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h5 {
+    background-color: mediumvioletred;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h6 {
+    background-color: darkorange;
+    color: palegreen;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+body {
+    background-color: lightslategrey;
+}
+
+.state {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+#VocalbularyInitiative {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+}
